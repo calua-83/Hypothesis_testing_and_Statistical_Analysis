@@ -51,12 +51,15 @@ Now that we have the data needed, we can check for significant differences in sa
 •	p-value: The p-value indicates whether the observed differences in sales across the seasons are statistically significant.
 
   #### Findings
-  •	Hypothesis:
-    o	Null Hypothesis (H₀): Sales are not significantly different across seasons.
-    o	Alternative Hypothesis (H₁): Sales are significantly different across seasons
-
+  The result from the ANOVA test is as follows:
+    •	P-Value = X.XX
+    •	Significance Level (α) = 0.05
+ If the p-value is less than 0.05 (α), we reject the null hypothesis and conclude that sales vary significantly across different seasons. If it is greater than 0.05, 
+ we fail to reject the null hypothesis, meaning there is no significant difference in sales across seasons.
+ 
+ In our case: P-Value  = (p-value: 0.9129111905702538)
+ Sales are not significantly different across seasons, implying that there is no strong seasonal effect on sales across the product categories.
   
-
   ### Resons and recomadation
 
 
