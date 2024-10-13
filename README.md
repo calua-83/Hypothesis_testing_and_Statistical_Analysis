@@ -17,7 +17,10 @@ On our calculations we recieved A correlation value of -0.35 which indicates the
      prices often lead to lower demand
    - Even though a value of -0.35 shows a moderate inverse relationship,It’s not a very strong correlation (like -1, which would indicate a perfect inverse relationship),
      but it does still suggest that there is some tendency for sales quantities to decrease as prices rise.
-   - In practical terms, other factors may also be influencing the quantity sold (like product quality, promotions, seasonality, or brand loyalty), but price still has a noticeable impact on sales.
+   - In practical terms, other factors may also be influencing the quantity sold (like product quality, promotions, seasonality, or brand loyalty), but 
+     price still has a noticeable impact on sales.
+
+![](https://github.com/calua-83/Hypothesis_testing_and_Statistical_Analysis/blob/main/Correlationbetween%20_Averageprice_Quantity.png?raw=true)
 
 ### Hypothesis 2: Sales performance varies significantly across different territories.
 
