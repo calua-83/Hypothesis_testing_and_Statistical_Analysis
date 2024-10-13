@@ -41,7 +41,22 @@ Now that we have the data needed, we can check for significant differences in sa
      
   ###  Hypothesis 3: Sales are higher for certain product categories due to seasonal trends.   
   #### Collect Dataset To Use
+  After executing the query and categorizing sales data by season, we analyzed total sales and quantities across product categories.
+  This initial grouping provides a snapshot of how each product category performs in different seasons.
+  
+  #### Perform Statistical Analysis
+  The ANOVA test was used to determine if there are significant differences in sales between the four seasons (Winter, Spring, Summer, and Fall). This test compares the means of sales across the seasons 
+  and checks for significant variation.
+•	F-value: The F-statistic helps assess the variance between the groups (sales across seasons) versus the variance within the groups (sales within each season).
+•	p-value: The p-value indicates whether the observed differences in sales across the seasons are statistically significant.
+
   #### Findings
+  •	Hypothesis:
+    o	Null Hypothesis (H₀): Sales are not significantly different across seasons.
+    o	Alternative Hypothesis (H₁): Sales are significantly different across seasons
+
+  
+
   ### Resons and recomadation
 
 
