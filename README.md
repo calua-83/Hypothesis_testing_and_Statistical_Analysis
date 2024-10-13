@@ -65,7 +65,8 @@ Now that we have the data needed, we can check for significant differences in sa
  
  In our case: P-Value  = (p-value: 0.9129111905702538)
  Sales are not significantly different across seasons, implying that there is no strong seasonal effect on sales across the product categories.
-  
+ 
+  ![](https://github.com/calua-83/Hypothesis_testing_and_Statistical_Analysis/blob/main/seasonal_trends.png?raw=true)
   ### Resons and recomadation
 
 
