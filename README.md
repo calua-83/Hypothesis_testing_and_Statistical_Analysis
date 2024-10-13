@@ -36,8 +36,11 @@ Now that we have the data needed, we can check for significant differences in sa
     Results of the calculation: F-statistic: 26.36559808520165, p-value: 1.3877277105065728e-08
     -  F-statistic: Measures the ratio of the variance between the groups to the variance within the groups, a larger F-statistic means more 
        variability between territories compared to variability within them.
-    -  p-value: This tells you the likelihood that the observed differences in sales performance are due to random chance. If the p-value is less than 0.05 (or a chosen significance level), 
+    -  p-value: This tells you the likelihood that the observed differences in sales performance are due to random chance. If the p-value is less than 0.05 
+       (or a chosen significance level), 
        we can conclude in our case that sales performance varies significantly across territories.
+       
+![](https://github.com/calua-83/Hypothesis_testing_and_Statistical_Analysis/blob/main/sales_discribution_by_territory.png?raw=true)
 ### Resons and recomadation
      There can be several reasons for significant differences in sales performance across territories. The reasons can vary based on external factors, internal strategies, or market conditions. Here are 
      some common factors that could contribute to the variation:
