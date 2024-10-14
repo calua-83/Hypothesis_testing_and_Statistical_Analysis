@@ -68,7 +68,8 @@ Now that we have the data needed, we can check for significant differences in sa
  
   ![](https://github.com/calua-83/Hypothesis_testing_and_Statistical_Analysis/blob/main/seasonal_trends.png?raw=true)
   ### Resons and recomadation
-
+  Further investigation is recommended to understand the lack of significant seasonal impact. Factors such as year-round demand, promotions, or product- 
+  specific trends could be contributing to these results.
 
     
 
