@@ -5,7 +5,7 @@ This project investigates sales data from the Adventure Works database to examin
 
 ## Research Questions and Hypotheses
 ## Hypothesis 1: Higher Product Prices Correlate with Lower Sales Quantities
-Objective: To determine if higher product prices lead to a decrease in sales quantities.
+**Objective:** To determine if higher product prices lead to a decrease in sales quantities.
 #### Data Collection
 Queried the Adventure Works database using SQLite to extract relevant product data, including product names, quantities sold, and prices.
 #### Statistical Analysis
@@ -21,7 +21,7 @@ Queried the Adventure Works database using SQLite to extract relevant product da
 
 ## Hypothesis 2: Sales Performance Varies Significantly Across Different Territories
 
-Objective: To identify if there are significant differences in sales performance across different territories.
+**Objective:** To identify if there are significant differences in sales performance across different territories.
 
 #### Data Collection
 Retrieved sales data across all territories.
@@ -35,7 +35,7 @@ Conducted an ANOVA test (using scipy.stats.f_oneway) to compare average sales ac
 ![](https://github.com/calua-83/Hypothesis_testing_and_Statistical_Analysis/blob/main/sales_discribution_by_territory.png?raw=true)
      
 ## Hypothesis 3: Sales are Higher for Certain Product Categories Due to Seasonal Trends 
-Objective: To determine if certain product categories exhibit seasonal sales trends.
+**Objective:** To determine if certain product categories exhibit seasonal sales trends.
 #### Data Collection
 Extracted and categorized sales data by season to analyze total sales and quantities across product categories.
 #### Statistical Analysis
